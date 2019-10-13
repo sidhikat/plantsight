@@ -1,0 +1,16 @@
+PODS:
+  - TensorFlowLite (1.13.1)
+
+DEPENDENCIES:
+  - TensorFlowLite
+
+SPEC REPOS:
+  trunk:
+    - TensorFlowLite
+
+SPEC CHECKSUMS:
+  TensorFlowLite: 8b9dc4eb32eac0f8cb660c66bca7604da56dcc5a
+
+PODFILE CHECKSUM: cb2e25566d84e4dcc2ff5c4f9e70a0f5aeefe783
+
+COCOAPODS: 1.8.3
