@@ -7,3 +7,5 @@ Purpose: To raise awareness about nature and create a sense of connection betwee
 + Sidhika Tripathee ([sidhikat](https://github.com/sidhikat))
 + Timo Lahtinen ([Timolahti](https://github.com/Timolahti))
 + Lia Johansen ([johanlia000](https://github.com/johanlia000))
+
+Link to App Demo: https://youtu.be/CVK81A2MGPU
