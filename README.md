@@ -9,3 +9,9 @@ Purpose: To raise awareness about nature and create a sense of connection betwee
 + Lia Johansen ([johanlia000](https://github.com/johanlia000))
 
 Link to App Demo: https://youtu.be/CVK81A2MGPU
+
+
+## How to use our algorithm:
+
+ + blah blah blah placeholder
+ 
