@@ -15,5 +15,5 @@ Link to App Demo: https://youtu.be/CVK81A2MGPU
 
 ## How to use our algorithm:
 
- + blah blah blah placeholder
- 
+ + We used this google tutorial to put our ML model on our app: https://cloud.google.com/vision/automl/docs/tflite-ios-tutorial
+   + Warning: We were unable to solve an error with version mismatching, but as google displays everywhere, this is a beta product.
